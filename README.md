@@ -53,32 +53,6 @@ I am continuously working to expand my knowledge in cloud infrastructure, contai
 
 ---
 
-## 🚀 Featured Projects
-
-### 📊 [Job Market Analytics & Skill Demand Analysis](https://github.com/blessen5/job-analysis)
-> A data analytics platform designed to analyze real job-market postings—identifying in-demand technical skills, salary distributions, role relationships, remote work trends, and geographic patterns.
-
-* **Highlights:** Ingestion pipelines, exploratory data analysis (EDA), data cleaning & quality reports, and structured skill extraction.
-* **Tech Stack:** `Python` • `Pandas` • `NumPy` • `SciPy` • `PostgreSQL` • `FastAPI` • `Matplotlib` • `Seaborn` • `Plotly` • `Docker` • `pytest`
-
----
-
-### 🖥️ [RigMaster AI](https://github.com/blessen5/rigmaster-ai) | [Live Demo 🌐](https://rigmaster-ai.vercel.app)
-> An interactive web tool bringing AI-assisted recommendations and insights to PC building and hardware configuration.
-
-* **Highlights:** Web interface for PC hardware selection and AI-assisted rig optimization.
-* **Tech Stack:** `Python` • `HTML5` • `CSS3` • `JavaScript` • `Vercel`
-
----
-
-### 🌐 [Personal Portfolio Website](https://github.com/blessen5/portfoliowebsite) | [Live Demo 🌐](https://portfoliowebsite-ten-blond.vercel.app)
-> A modern developer portfolio website showcasing background, skill set, and active projects.
-
-* **Highlights:** Clean responsive design, interactive navigation, and cloud deployment.
-* **Tech Stack:** `HTML5` • `CSS3` • `JavaScript` • `Vercel`
-
----
-
 ## 📜 Certifications
 
 * 🎓 **AI Essentials** — *Coursera*
