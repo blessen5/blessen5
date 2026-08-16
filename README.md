@@ -22,13 +22,19 @@ I am continuously working to expand my knowledge in cloud infrastructure, contai
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Cloud_Computing-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Cloud Computing" />
   <img src="https://img.shields.io/badge/DevOps-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="DevOps" />
-  <img src="https://img.shields.io/badge/Software_Development-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="Software Development" />
-  <img src="https://img.shields.io/badge/Data_Analytics-FF6F00?style=for-the-badge&logo=jupyter&logoColor=white" alt="Data Analytics" />
+  <img src="https://img.shields.io/badge/Software_Development-00599C?style=for-the-badge&logo=python&logoColor=white" alt="Software Development" />
+  <img src="https://img.shields.io/badge/Data_Analytics-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Data Analytics" />
 </p>
 
 ---
 
 ## 🛠️ My Skills
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,linux,docker,gcp,postgres,fastapi,git,vscode,html,css,js,go&theme=dark" alt="Blessen's Tech Stack Icons" />
+  </a>
+</p>
 
 ### 💻 Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -41,19 +47,17 @@ I am continuously working to expand my knowledge in cloud infrastructure, contai
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-![EDA & Data Cleaning](https://img.shields.io/badge/Data_Pipeline-EDA_%26_Cleaning-orange?style=flat-square)
 
 ### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 ### ⚙️ Development
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-000000?style=flat-square&logo=postman&logoColor=white)
-![Web Development](https://img.shields.io/badge/Frontend-HTML%2FCSS%2FJS-blue?style=flat-square)
+![HTML/CSS/JS](https://img.shields.io/badge/Frontend-HTML%2FJS-blue?style=flat-square&logo=html5&logoColor=white)
 
 ### ☁️ Cloud & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -65,7 +69,6 @@ I am continuously working to expand my knowledge in cloud infrastructure, contai
 ### 🔧 Tools & Workflow
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
-![Git CLI](https://img.shields.io/badge/Git_CLI-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
