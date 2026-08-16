@@ -115,13 +115,14 @@ I am continuously working to expand my knowledge in cloud infrastructure, contai
 ## 📬 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/blessen5">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/blessen5" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" title="GitHub Profile" width="45" height="45" />
   </a>
-  <a href="mailto:blessenpshaju@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:blessenpshaju@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" title="Send Email" width="45" height="45" />
   </a>
 </p>
 
-* 🐙 **GitHub:** [github.com/blessen5](https://github.com/blessen5)
+* 🐙 **GitHub:** [https://github.com/blessen5](https://github.com/blessen5)
 * 📧 **Email:** [blessenpshaju@gmail.com](mailto:blessenpshaju@gmail.com)
