@@ -107,11 +107,16 @@ I am continuously working to expand my knowledge in cloud infrastructure, contai
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Activity & Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=blessen5&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Blessen's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blessen5&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://img.shields.io/github/followers/blessen5?label=Followers&style=for-the-badge&logo=github&color=0d1117" alt="Followers" />
+  <img src="https://img.shields.io/badge/Public_Repos-4-0d1117?style=for-the-badge&logo=github" alt="Public Repos" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=blessen5&theme=dark&hide_border=true" alt="Blessen's GitHub Streak" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=blessen5&theme=react-dark&hide_border=true" alt="Blessen's Contribution Activity Graph" width="48%" />
 </p>
 
 ---
