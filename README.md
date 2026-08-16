@@ -116,10 +116,13 @@ I am continuously working to expand my knowledge in cloud infrastructure, contai
 
 <p align="left">
   <a href="https://github.com/blessen5" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-blessen5-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub - blessen5" />
+    <img src="https://cdn.simpleicons.org/github/white" alt="GitHub" title="GitHub Profile (github.com/blessen5)" width="52" height="52" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:blessenpshaju@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Email-blessenpshaju%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email - blessenpshaju@gmail.com" />
+    <img src="https://cdn.simpleicons.org/gmail" alt="Email" title="Send Email (blessenpshaju@gmail.com)" width="52" height="52" />
   </a>
 </p>
+
+* 🐙 **GitHub:** [https://github.com/blessen5](https://github.com/blessen5)
+* 📧 **Email:** [blessenpshaju@gmail.com](mailto:blessenpshaju@gmail.com)
