@@ -1,8 +1,8 @@
 # Hi there, I'm Blessen P Shaju 👋
 
-```text
-MSc Computer Science – Data Analytics Student | Aspiring Tech Professional
-```
+<p align="center">
+  <img src="ascii_profile.jpg" alt="Blessen P Shaju - Developer Terminal ASCII Profile" width="100%" />
+</p>
 
 ---
 
