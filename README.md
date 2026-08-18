@@ -1,10 +1,12 @@
 # Hi there, I'm Blessen P Shaju 👋
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dark-ne.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/light-ne.svg">
-  <img alt="Blessen P Shaju — Terminal Profile" src="assets/dark-ne.svg" width="100%">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="ascii_profile.svg">
+    <source media="(prefers-color-scheme: light)" srcset="ascii_profile_light.svg">
+    <img src="ascii_profile.svg" alt="Blessen P Shaju - Developer Terminal ASCII Profile" width="100%" />
+  </picture>
+</p>
 
 ---
 
