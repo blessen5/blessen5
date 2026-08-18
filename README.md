@@ -1,7 +1,7 @@
 # Hi there, I'm Blessen P Shaju 👋
 
 <p align="center">
-  <img src="ascii_profile.svg" alt="Blessen P Shaju - Developer Terminal ASCII Profile" width="100%" />
+  <img src="ascii_profile.jpg" alt="Blessen P Shaju - Developer Terminal ASCII Profile" width="100%" />
 </p>
 
 ---
