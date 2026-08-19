@@ -1,4 +1,4 @@
-# Hi there, I'm Blessen P Shaju 👋
+# Hi there, I'm Blessen P Shaju 
 
 <p align="center">
   <picture>
