@@ -64,9 +64,6 @@ I am continuously working to expand my knowledge in cloud infrastructure, contai
 *  **SQL and Relational Databases 101** — *Cognitive Class*
 *  **Word Processing and Data Entry** — *KELTRON*
 
----
----
-
 ##  Connect With Me
 
 <p align="left">
