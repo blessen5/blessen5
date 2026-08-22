@@ -65,14 +65,6 @@ I am continuously working to expand my knowledge in cloud infrastructure, contai
 *  **Word Processing and Data Entry** — *KELTRON*
 
 ---
-
-##  Learning Roadmap
-
-```text
-  [ LEARN ] ➔ ➔ ➔ [ BUILD ] ➔ ➔ ➔ [ EXPERIMENT ] ➔ ➔ ➔ [ IMPROVE ]
-```
-
-
 ---
 
 ##  Connect With Me
