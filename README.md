@@ -10,7 +10,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 I am a Master's student in **Computer Science (Data Analytics)** with a passion for building data-driven systems, analytics pipelines, and modern software solutions. My academic and project work centers on extracting insights from complex datasets, exploratory data analysis, and building software applications backed by solid engineering principles. 
 
@@ -18,7 +18,7 @@ I am continuously working to expand my knowledge in cloud infrastructure, contai
 
 ---
 
-## 🎯 Currently Learning
+##  Currently Learning
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="45" height="45"/> &nbsp;&nbsp;
@@ -32,7 +32,7 @@ I am continuously working to expand my knowledge in cloud infrastructure, contai
 
 ---
 
-## 🛠️ My Skills
+##  My Skills
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="45" height="45"/> &nbsp;&nbsp;
@@ -57,16 +57,16 @@ I am continuously working to expand my knowledge in cloud infrastructure, contai
 
 ---
 
-## 📜 Certifications
+##  Certifications
 
-* 🎓 **AI Essentials** — *Coursera*
-* 🎓 **Generative AI Overview for Project Managers** — *PMI (Project Management Institute)*
-* 🎓 **SQL and Relational Databases 101** — *Cognitive Class*
-* 🎓 **Word Processing and Data Entry** — *KELTRON*
+*  **AI Essentials** — *Coursera*
+*  **Generative AI Overview for Project Managers** — *PMI (Project Management Institute)*
+*  **SQL and Relational Databases 101** — *Cognitive Class*
+*  **Word Processing and Data Entry** — *KELTRON*
 
 ---
 
-## 🗺️ Learning Roadmap
+##  Learning Roadmap
 
 ```text
   [ LEARN ] ➔ ➔ ➔ [ BUILD ] ➔ ➔ ➔ [ EXPERIMENT ] ➔ ➔ ➔ [ IMPROVE ]
@@ -75,7 +75,7 @@ I am continuously working to expand my knowledge in cloud infrastructure, contai
 
 ---
 
-## 📬 Connect With Me
+##  Connect With Me
 
 <p align="left">
   <a href="https://github.com/blessen5" target="_blank" rel="noopener noreferrer">
@@ -87,5 +87,5 @@ I am continuously working to expand my knowledge in cloud infrastructure, contai
   </a>
 </p>
 
-* 🐙 **GitHub:** [https://github.com/blessen5](https://github.com/blessen5)
-* 📧 **Email:** [blessenpshaju@gmail.com](mailto:blessenpshaju@gmail.com)
+*  **GitHub:** [https://github.com/blessen5](https://github.com/blessen5)
+*  **Email:** [blessenpshaju@gmail.com](mailto:blessenpshaju@gmail.com)
