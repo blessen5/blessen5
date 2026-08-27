@@ -32,7 +32,7 @@ I am continuously working to expand my knowledge in cloud infrastructure, contai
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,postgres,fastapi,docker,linux,git,githubactions,js,go,html,css,vercel,vscode,sklearn,bash,postman" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=py,postgres,fastapi,docker,linux,git,gitlab,githubactions,js,ts,html,css,tailwind,go,vercel,vscode,sklearn,bash,postman" alt="My Skills" />
   </a>
 </p>
 
