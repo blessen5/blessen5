@@ -48,10 +48,15 @@ I am continuously working to expand my knowledge in cloud infrastructure, contai
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub Profile" title="GitHub Profile (github.com/blessen5)" />
   </a>
   &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/blessen-p-shaju" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn Profile" title="LinkedIn Profile (linkedin.com/in/blessen-p-shaju)" />
+  </a>
+  &nbsp;&nbsp;
   <a href="mailto:blessenpshaju@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Send Email" title="Send Email (blessenpshaju@gmail.com)" />
   </a>
 </p>
 
 *  **GitHub:** [https://github.com/blessen5](https://github.com/blessen5)
+*  **LinkedIn:** [https://www.linkedin.com/in/blessen-p-shaju](https://www.linkedin.com/in/blessen-p-shaju)
 *  **Email:** [blessenpshaju@gmail.com](mailto:blessenpshaju@gmail.com)
