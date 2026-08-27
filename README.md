@@ -21,13 +21,9 @@ I am continuously working to expand my knowledge in cloud infrastructure, contai
 ## 🎯 Currently Learning
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="45" height="45"/> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="45" height="45"/> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="45" height="45"/> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Cloud Computing" title="Cloud Computing" width="45" height="45"/> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="DevOps" title="DevOps" width="45" height="45"/> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Software Development" title="Software Development" width="45" height="45"/> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Data Analytics" title="Data Analytics" width="45" height="45"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,linux,docker,gcp,githubactions,vscode" alt="Currently Learning Skills" />
+  </a>
 </p>
 
 ---
@@ -35,24 +31,9 @@ I am continuously working to expand my knowledge in cloud infrastructure, contai
 ## 🛠️ My Skills
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="45" height="45"/> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" title="Pandas" width="45" height="45"/> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" title="NumPy" width="45" height="45"/> &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/scipy/8CAAE6" alt="SciPy" title="SciPy" width="45" height="45"/> &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/plotly/3F4F75" alt="Plotly" title="Plotly" width="45" height="45"/> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="45" height="45"/> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" title="FastAPI" width="45" height="45"/> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="45" height="45"/> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="45" height="45"/> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" width="45" height="45"/> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" title="GitHub Actions" width="45" height="45"/> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="45" height="45"/> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" title="Go" width="45" height="45"/> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="45" height="45"/> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="45" height="45"/> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="Vercel" title="Vercel" width="45" height="45"/> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code" width="45" height="45"/> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" alt="pytest" title="pytest" width="45" height="45"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,postgres,fastapi,docker,linux,git,githubactions,js,go,html,css,vercel,vscode,sklearn,bash,postman" alt="My Skills" />
+  </a>
 </p>
 
 ---
@@ -94,11 +75,11 @@ I am continuously working to expand my knowledge in cloud infrastructure, contai
 
 <p align="left">
   <a href="https://github.com/blessen5" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.simpleicons.org/github/white" alt="GitHub" title="GitHub Profile (github.com/blessen5)" width="52" height="52" />
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub Profile" title="GitHub Profile (github.com/blessen5)" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:blessenpshaju@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.simpleicons.org/gmail" alt="Email" title="Send Email (blessenpshaju@gmail.com)" width="52" height="52" />
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Send Email" title="Send Email (blessenpshaju@gmail.com)" />
   </a>
 </p>
 
