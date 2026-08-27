@@ -22,8 +22,14 @@ I am continuously working to expand my knowledge in cloud infrastructure, contai
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,ts,react,vite,html,css,tailwind,go,php,postgres,mysql,mongodb,fastapi,pandas,numpy,matplotlib,sklearn,docker,linux,ubuntu,gcp,git,gitlab,githubactions,vercel,vscode,bash,postman" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,ts,react,vite,html,css,tailwind,go,php,postgres,mysql,mongodb,fastapi,sklearn,docker,linux,ubuntu,gcp,git,gitlab,githubactions,vercel,vscode,bash,postman" alt="My Skills" />
   </a>
+  <br />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="48" height="48" title="Pandas" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="48" height="48" title="NumPy" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="48" height="48" title="Matplotlib" />
 </p>
 
 ---
