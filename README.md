@@ -22,7 +22,7 @@ I am continuously working to expand my knowledge in cloud infrastructure, contai
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,ts,react,html,css,tailwind,go,php,postgres,mysql,mongodb,fastapi,docker,linux,gcp,git,gitlab,githubactions,vercel,vscode,sklearn,bash,postman" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,ts,react,vite,html,css,tailwind,go,php,postgres,mysql,mongodb,fastapi,docker,linux,ubuntu,gcp,git,gitlab,githubactions,vercel,vscode,sklearn,bash,postman" alt="My Skills" />
   </a>
 </p>
 
