@@ -10,7 +10,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 I am a Master's student in **Computer Science (Data Analytics)** with a passion for building data-driven systems, analytics pipelines, and modern software solutions. My academic and project work centers on extracting insights from complex datasets, exploratory data analysis, and building software applications backed by solid engineering principles. 
 
@@ -18,7 +18,7 @@ I am continuously working to expand my knowledge in cloud infrastructure, contai
 
 ---
 
-## 🎯 Currently Learning
+##  Currently Learning
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -28,7 +28,7 @@ I am continuously working to expand my knowledge in cloud infrastructure, contai
 
 ---
 
-## 🛠️ My Skills
+##  My Skills
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -38,40 +38,14 @@ I am continuously working to expand my knowledge in cloud infrastructure, contai
 
 ---
 
-## 📜 Certifications
+##  Certifications
 
-* 🎓 **AI Essentials** — *Coursera*
-* 🎓 **Generative AI Overview for Project Managers** — *PMI (Project Management Institute)*
-* 🎓 **SQL and Relational Databases 101** — *Cognitive Class*
-* 🎓 **Word Processing and Data Entry** — *KELTRON*
+*  **AI Essentials** — *Coursera*
+*  **Generative AI Overview for Project Managers** — *PMI (Project Management Institute)*
+*  **SQL and Relational Databases 101** — *Cognitive Class*
+*  **Word Processing and Data Entry** — *KELTRON*
 
----
-
-## 📊 GitHub Activity & Statistics
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/blessen5?label=Followers&style=for-the-badge&logo=github&color=0d1117" alt="Followers" />
-  <img src="https://img.shields.io/badge/Public_Repos-4-0d1117?style=for-the-badge&logo=github" alt="Public Repos" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=blessen5&theme=dark&hide_border=true" alt="Blessen's GitHub Streak" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=blessen5&theme=react-dark&hide_border=true" alt="Blessen's Contribution Activity Graph" width="48%" />
-</p>
-
----
-
-## 🗺️ Learning Roadmap
-
-```text
-  [ LEARN ] ➔ ➔ ➔ [ BUILD ] ➔ ➔ ➔ [ EXPERIMENT ] ➔ ➔ ➔ [ IMPROVE ]
-```
-
-> **Approach:** Continuously absorbing core concepts, applying them in hands-on projects, experimenting with modern tooling, and iteratively refining performance and code quality.
-
----
-
-## 📬 Connect With Me
+##  Connect With Me
 
 <p align="left">
   <a href="https://github.com/blessen5" target="_blank" rel="noopener noreferrer">
@@ -83,5 +57,5 @@ I am continuously working to expand my knowledge in cloud infrastructure, contai
   </a>
 </p>
 
-* 🐙 **GitHub:** [https://github.com/blessen5](https://github.com/blessen5)
-* 📧 **Email:** [blessenpshaju@gmail.com](mailto:blessenpshaju@gmail.com)
+*  **GitHub:** [https://github.com/blessen5](https://github.com/blessen5)
+*  **Email:** [blessenpshaju@gmail.com](mailto:blessenpshaju@gmail.com)
